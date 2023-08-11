@@ -65,7 +65,7 @@
                             <!-- brand logo -->
                             <div class="header__logo">
                                 <a href="index.html">
-                                    <img src="{{asset('assets/images/icons/ampio.svg')}}" aria-label="Mitech Logo" width="160" height="48" class="img-fluid" alt="">
+                                    <img src="{{asset('assets/images/icons/ampio.svg')}}" aria-label="Mitech Logo" width="140" height="40" class="img-fluid" alt="">
                                 </a>
                             </div>
 
@@ -789,8 +789,8 @@
                         <div class="col-lg-12">
                             <!-- section-title-wrap Start -->
                             <div class="section-title-wrap text-center section-space--mb_40">
-                                <h6 class="section-sub-title mb-20">Case studies</h6>
-                                <h3 class="heading">Proud projects that<span class="text-color-primary">  make us stand out</span></h3>
+                                <h6 class="section-sub-title mb-20">Brain Food</h6>
+                                <h3 class="heading">KNOWLEDGE CENTER</span></h3>
                             </div>
                             <!-- section-title-wrap Start -->
                         </div>
@@ -808,12 +808,12 @@
                                                     <img class="img-fluid" src="assets/images/projects/case-study-01-480x298.webp" alt="">
                                                 </div>
                                                 <div class="content">
-                                                    <h6 class="heading">Mitech-Smart Vision</h6>
-                                                    <div class="post-categories">Cyber Security</div>
-                                                    <div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.
+                                                    <h6 class="heading">Volume space not updated</h6>
+                                                    <div class="post-categories">Storage Solutions</div>
+                                                    <div class="text">Symptom In Windows Server 2019, when a physical Disk is added to a Storage Pool, the Virtual Disk for that...
                                                     </div>
                                                     <div class="box-projects-arrow">
-                                                        <span class="button-text">View case study</span>
+                                                        <span class="button-text">Tutorial</span>
                                                         <i class="fas fa-arrow-right ml-1"></i>
                                                     </div>
                                                 </div>
@@ -830,12 +830,12 @@
                                                     <img class="img-fluid" src="assets/images/projects/case-study-02-480x298.webp" alt="">
                                                 </div>
                                                 <div class="content">
-                                                    <h6 class="heading">Arden-Internal Networking</h6>
-                                                    <div class="post-categories">Cyber Security</div>
-                                                    <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                    <h6 class="heading">Do you Realize true Savings with the Cloud?</h6>
+                                                    <div class="post-categories">Cloud </div>
+                                                    <div class="text">As far as technology is concerned, significant changes initially tend to leave sizeable chunks of users confused and distrustful of...
                                                     </div>
                                                     <div class="box-projects-arrow">
-                                                        <span class="button-text">View case study</span>
+                                                        <span class="button-text">Blog</span>
                                                         <i class="fas fa-arrow-right ml-1"></i>
                                                     </div>
                                                 </div>
@@ -852,12 +852,12 @@
                                                     <img class="img-fluid" src="assets/images/projects/case-study-03-480x298.webp" alt="">
                                                 </div>
                                                 <div class="content">
-                                                    <h6 class="heading">A Freeserve case study</h6>
-                                                    <div class="post-categories">Cyber Security</div>
-                                                    <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                    <h6 class="heading">The Problem With Brand Bias</h6>
+                                                    <div class="post-categories">IT Consulting</div>
+                                                    <div class="text">With so much technology out there, it's inevitable that the market will offer dozens of solutions which essentially do the...
                                                     </div>
                                                     <div class="box-projects-arrow">
-                                                        <span class="button-text">View case study</span>
+                                                        <span class="button-text">Blog</span>
                                                         <i class="fas fa-arrow-right ml-1"></i>
                                                     </div>
                                                 </div>
@@ -874,12 +874,12 @@
                                                     <img class="img-fluid" src="assets/images/projects/case-study-04-480x298.webp" alt="">
                                                 </div>
                                                 <div class="content">
-                                                    <h6 class="heading">Aqua – Research and Energy</h6>
+                                                    <h6 class="heading">The Assessment and The Reality</h6>
                                                     <div class="post-categories">Cyber Security</div>
-                                                    <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                    <div class="text">Microsoft Partners and customers alike are provided a great benefit called "Software Assurance Planning Services" to help assess a specific...
                                                     </div>
                                                     <div class="box-projects-arrow">
-                                                        <span class="button-text">View case study</span>
+                                                        <span class="button-text">Blog</span>
                                                         <i class="fas fa-arrow-right ml-1"></i>
                                                     </div>
                                                 </div>
@@ -892,7 +892,7 @@
                                 <div class="swiper-pagination swiper-pagination-project mt_20"></div>
                             </div>
 
-                            <div class="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                            <div class="section-under-heading text-center section-space--mt_40"><a href="#">Learn More!</a></div>
 
                         </div>
                     </div>
@@ -901,7 +901,7 @@
             <!--===========  Projects wrapper End =============-->
 
             <!--====================  testimonial section ====================-->
-            <div class="testimonial-slider-area section-space--ptb_120 bg-gray-3">
+            {{-- <div class="testimonial-slider-area section-space--ptb_120 bg-gray-3">
                 <div class="container-fluid container-fluid--cp-80">
                     <div class="row">
                         <div class="col-lg-12">
@@ -983,12 +983,12 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <!--====================  End of testimonial section  ====================-->
 
 
             <!--====================  Blog Section Start ====================-->
-            <div class="blog-section-wrapper section-space--pt_100  section-space--pb_70">
+            {{-- <div class="blog-section-wrapper section-space--pt_100  section-space--pb_70">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 col-md-12 wow move-up">
@@ -1095,7 +1095,7 @@
 
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <!--====================  Blog Section End  ====================-->
             <!--====================  Conact us Section Start ====================-->
             <div class="contact-us-section-wrappaer infotechno-contact-us-bg section-space--ptb_120">
@@ -1103,9 +1103,9 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-lg-6">
                             <div class="conact-us-wrap-one">
-                                <h3 class="heading">Obtaining further information by <span class="text-color-primary">make a contact</span> with our experienced IT staffs. </h3>
+                                <h3 class="heading">LEVERAGE OUR EXPERIENCE AND EXPERTISE </h3>
 
-                                <div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
+                                <div class="sub-heading">We help your team make the most of your technology budget! Our discovery phase is performed by an experienced technologist. We deliver solutions that save you money and make your team more productive.</div>
 
                             </div>
                         </div>
@@ -1116,9 +1116,9 @@
                                     <span class="fas fa-phone"></span>
                                 </div>
                                 <h6 class="heading font-weight--reguler">Reach out now!</h6>
-                                <h2 class="call-us"><a href="tel:190068668">1900 68668</a></h2>
+                                <h2 class="call-us"><a href="tel:190068668">(214) 295-2915</a></h2>
                                 <div class="contact-us-button mt-20">
-                                    <a href="#" class="btn btn--secondary">Contact us</a>
+                                    <a href="#" class="btn btn--secondary">Partner With Us</a>
                                 </div>
                             </div>
                         </div>
@@ -1130,57 +1130,71 @@
 
 
         <!--====================  footer area ====================-->
-        <div class="footer-area-wrapper bg-gray">
+        <div class="footer-area-wrapper">
             <div class="footer-area section-space--ptb_80">
                 <div class="container">
                     <div class="row footer-widget-wrapper">
                         <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
                             <div class="footer-widget__logo mb-30">
-                                <img src="assets/images/logo/dark-logo-160x48.webp" width="160" height="48" class="img-fluid" alt="">
+                                <img src="{{asset('assets/images/icons/ampio.svg')}}" width="160" height="48" class="img-fluid" alt="">
                             </div>
                             <ul class="footer-widget__list">
-                                <li>58 Howard Street #2 San Francisco, CA 941</li>
-                                <li><a href="mailto:contact@aeroland.com" class="hover-style-link">contact@aeroland.com</a></li>
-                                <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+68)1221 09876</a></li>
-                                <li><a href="https://hasthemes.com/" class="hover-style-link text-color-primary">www.mitech.xperts.com</a></li>
+                                <li>325 North Saint Paul Street
+                                    Suite 2600 Dallas, TX 75201</li>
+                                <li><a href="mailto:contact@aeroland.com" class="hover-style-link">sales@ampiOsolutions.com</a></li>
+                                <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(214) 295-2915</a></li>
+                                <li><a href="https://www.ampiosolutions.com" class="hover-style-link text-color-primary">www.ampiosolutions.com</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">IT Services</h6>
+                        <div class="col-lg-3 col-md-4 col-sm-7 footer-widget">
+                            <h6 class="footer-widget__title mb-20">Solutions</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Managed IT</a></li>
-                                <li><a href="#" class="hover-style-link">IT Support</a></li>
-                                <li><a href="#" class="hover-style-link">IT Consultancy</a></li>
-                                <li><a href="#" class="hover-style-link">Cloud Computing</a></li>
-                                <li><a href="#" class="hover-style-link">Cyber Security</a></li>
+                                <li><a href="#" class="hover-style-link">Content Management & Collaboration</a></li>
+                                <li><a href="#" class="hover-style-link">Process Automation</a></li>
+                                <li><a href="#" class="hover-style-link">Retention & Compliance</a></li>
+                                <li><a href="#" class="hover-style-link">Software Assets Consolidation</a></li>
+                                <li><a href="#" class="hover-style-link">Data Normalization</a></li>
+                                <li><a href="#" class="hover-style-link">Storage Solutions</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">Quick links</h6>
+                        <div class="col-lg-3 col-md-5 col-sm-7 footer-widget">
+                            <h6 class="footer-widget__title mb-20">Expertise</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Pick up locations</a></li>
-                                <li><a href="#" class="hover-style-link">Terms of Payment</a></li>
-                                <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
-                                <li><a href="#" class="hover-style-link">Where to Find Us</a></li>
+                                <li><a href="#" class="hover-style-link">SharePoint Migration</a></li>
+                                <li><a href="#" class="hover-style-link">SharePoint Customization</a></li>
+                                <li><a href="#" class="hover-style-link">Custom Development</a></li>
+                                <li><a href="#" class="hover-style-link">Office 365</a></li>
+                                <li><a href="#" class="hover-style-link">Azure</a></li>
+                                <li><a href="#" class="hover-style-link">SQL Server</a></li>
+                                <li><a href="#" class="hover-style-link">System Center</a></li>
+                                <li><a href="#" class="hover-style-link">Active Directory</a></li>
+                                <li><a href="#" class="hover-style-link">BizTalk</a></li>
+                                <li><a href="#" class="hover-style-link">Power BI</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">Support</h6>
+                            <h6 class="footer-widget__title mb-20">Company</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Forum Support</a></li>
-                                <li><a href="#" class="hover-style-link">Help & FAQ</a></li>
-                                <li><a href="#" class="hover-style-link">Contact Us</a></li>
-                                <li><a href="#" class="hover-style-link">Pricing and plans</a></li>
-                                <li><a href="#" class="hover-style-link">Cookies Policy</a></li>
+                                <li><a href="#" class="hover-style-link">Overview</a></li>
+                                <li><a href="#" class="hover-style-link">Leadership Team</a></li>
+                                <li><a href="#" class="hover-style-link">Methodology</a></li>
+                                
+                            </ul>
+
+                            <h6 class="footer-widget__title mb-20 mt-5">Knowledge Center</h6>
+                            <ul class="footer-widget__list">
+                                <li><a href="#" class="hover-style-link">Case Study</a></li>
+                                <li><a href="#" class="hover-style-link">Tutorial</a></li>
+                                
                             </ul>
                         </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
+                        {{-- <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                             <div class="footer-widget__title section-space--mb_50"></div>
                             <ul class="footer-widget__list">
                                 <li><a href="#" class="image_btn" aria-label="Google play Button"><img class="img-fluid" src="assets/images/icons/aeroland-button-google-play.webp" alt=""></a></li>
                                 <li><a href="#" class="image_btn" aria-label="App Store Button"><img class="img-fluid" src="assets/images/icons/aeroland-button-app-store.webp" alt=""></a></li>
                             </ul>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -1188,7 +1202,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-6 text-center text-md-start">
-                            <span class="copyright-text">&copy; 2023 Mitech. <a href="https://hasthemes.com/">All Rights Reserved.</a></span>
+                            <span class="copyright-text">&copy; 2023 Ampio Solutions. <a href="https://hasthemes.com/">All Rights Reserved.</a></span>
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <ul class="list ht-social-networks solid-rounded-icon">
