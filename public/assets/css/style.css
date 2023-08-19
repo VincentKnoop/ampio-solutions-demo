@@ -866,10 +866,10 @@ input[type="checkbox"] {
 }
 .page-pagination li a.current {
     background: #f6f5f9;
-    color: #086ad8;
+    color: #00b0ea;
 }
 .page-pagination li a:hover {
-    color: #086ad8;
+    color: #00b0ea;
 }
 
 /*=============================================
@@ -13561,8 +13561,8 @@ blockquote {
 }
 
 .banner-space {
-    padding-top: 195px;
-    padding-bottom: 204px;
+    padding-top: 115px;
+    padding-bottom: 154px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .banner-space {

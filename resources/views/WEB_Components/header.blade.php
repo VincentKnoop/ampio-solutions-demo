@@ -60,7 +60,7 @@
                                                     </li>
 
                                                     <li class="hasnt-children">
-                                                        <a href="#"><span>BLOGS</span></a>
+                                                        <a href="{{route('blogs')}}"><span>BLOG</span></a>
                                                     </li>
 
                                                     <li class="hasnt-children">
@@ -76,7 +76,7 @@
                         <div class="header-right-box">
                             <div class="header-right-inner" id="hidden-icon-wrapper">
                                 <div class="header-search-form default-search">
-                                    <a href="" class="text-white px-4 py-3 rounded-2" style="background-color: #00b0ea;">Contact</a>
+                                    <a href="" class="text-white px-4 py-2 rounded-2" style="background-color: #00b0ea;">Contact</a>
                                 </div>
                             </div>
                             <div class="mobile-navigation-icon d-block d-xl-none" id="mobile-menu-trigger">
@@ -149,7 +149,7 @@
                         </ul>
                     </li>
                     <li class="hasnt-children">
-                        <a href="#">Blogs</a>
+                        <a href="{{route('blogs')}}">Blog</a>
                     </li>
                     <li class="hasnt-children">
                         <a href="#">Projects</a>
